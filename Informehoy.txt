@@ -1,1 +1,4 @@
 Es un sistema de control de versiones.
+ramas
+Como ignorar archivos para no ser comprometidos en el
+área de trabajo.
